@@ -1,6 +1,6 @@
 $(document).ready(function() {
     $("#site_logo").click(function() {
-		alert(1)
+    	console.log('it\'s works!');
     	// location.replace("/");
     });
 });
